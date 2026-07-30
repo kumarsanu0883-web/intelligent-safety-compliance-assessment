@@ -8,3 +8,9 @@ venv/
 uploads/
 *.db
 .DS_Store
+credentials.env
+.env
+
+venv/
+__pycache__/
+*.pyc
